@@ -1,2 +1,2 @@
 # LearnPython
-My code of following a youtube tutorial
+My code of following a youtube tutorial.
